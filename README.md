@@ -44,5 +44,5 @@ I'm an Ornithologist from Belarus. Since 2023 I'm studying Data Engineer as a ne
 ### 📊: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlexanderPyshko&theme=flag-india&hide_border=false&stroke=black)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPyshko&show_icons=true&border=false)
 
-
+[![codewars](https://www.codewars.com/users/Ornitomancer/badges/large)](https://www.codewars.com/users/Ornitomancer)   
 
