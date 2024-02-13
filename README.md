@@ -18,7 +18,7 @@
 
 ### About Me :
 I'm an Ornithologist from Belarus. Since 2023 I'm studying Data Engineer as a new sphere of interests.
-- :telescope: I’m working as Researcher at National Academy of Science of Belarus and take courses in Data Engineering.
+- :telescope: I’m a Researcher at National Academy of Science of Belarus and take courses in Data Engineering.
   
 - :seedling: Studying gulls in urban area in Belarus.
 
