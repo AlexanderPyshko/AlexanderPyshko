@@ -39,10 +39,6 @@ I'm an Ornithologist from Belarus. Since 2023 I'm studying Data Engineer as a ne
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
  
-  ---
 
-### 📊: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexanderPyshko&theme=flag-india&hide_border=false&stroke=black)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPyshko&show_icons=true&border=false)
 
-[![codewars](https://www.codewars.com/users/Ornitomancer/badges/large)](https://www.codewars.com/users/Ornitomancer)   
 
