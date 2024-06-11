@@ -1,0 +1,184 @@
+<mxfile host="Electron" modified="2024-06-11T13:21:28.879Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="VN7iNHw47hsfLREdt0zn" version="24.5.1" type="device">
+  <diagram name="Страница — 1" id="TXNu3GUkeqNnDBEirAWe">
+    <mxGraphModel dx="1114" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-47" value="" style="group;strokeWidth=2;strokeColor=default;fillColor=default;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="528.7610619469026" y="253.0082191780822" width="280.7079646017699" height="291.3753424657534" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;STORAGE LAYER&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575.5238095238095" y="217.99652173913043" width="176.42361904761907" height="27.948985507246377" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="441.3274336283186" y="414.9041095890411" width="73.62831858407081" height="17.698630136986303" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ETL/ELT&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-57">
+          <mxGeometry x="-1.9429695181907571" y="-33.53424657534247" width="49.08554572271387" height="17.698630136986303" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-36" value="" style="endArrow=block;html=1;rounded=0;shape=flexArrow;width=26;endSize=11.33;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="432.12389380530976" y="389.75342465753425" as="sourcePoint" />
+            <mxPoint x="505.75221238938053" y="389.75342465753425" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="473.02851524090465" y="389.75342465753425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-4" value="" style="whiteSpace=wrap;html=1;imageAspect=1;absoluteArcSize=0;strokeColor=#042d60;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="92.66024014882461" width="294.51327433628325" height="638.0246913580248" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;SOURCE LAYER&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="169.42857142857144" y="60" width="165.00342857142857" height="25.189565217391305" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-10" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.learning;" vertex="1" parent="1">
+          <mxGeometry x="287.5494310998736" y="235.37628953154066" width="83.97911827436003" height="83.97911827436003" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;FIELD RESEARCH&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292.24323640960813" y="325.4559918822933" width="71.52465233881162" height="25.185185185185187" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-12" value="&lt;b&gt;ACCOUNTING OF NUMBERS AND SPECIES COMPOSITION OF BIRDS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="112" y="125.73" width="136.44" height="45.85" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-13" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=1;startFill=0;curved=0;strokeWidth=2;entryX=-0.011;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.971;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="211.25155890478132" y="117.75249815660416" as="sourcePoint" />
+            <mxPoint x="286.73118747393505" y="278.68693387451367" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286.70796460176996" y="285.74665990191113" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-14" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=4;strokeColor=#042d60;shadow=0;dashed=0;shape=mxgraph.ios7.icons.eye;fillColor=#90d0fe;fillStyle=auto;aspect=fixed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="163.277977243995" y="105.02053103331643" width="49.15850825816198" height="23.104498881336127" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;BIRDS BIOMETRICS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="157.47580278128953" y="214.91683409436834" width="61.00632111251581" height="25.185185185185187" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;NESTING SITES IDENTIFICATION&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="154.32030341340075" y="310.08865888719777" width="67.3173198482933" height="25.185185185185187" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-22" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data2;" vertex="1" parent="1">
+          <mxGeometry x="160.48798988621996" y="350.63968205648575" width="51.739329941715475" height="51.739329941715475" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;BIRDS MORPHOMETRICS MEASUREMENTS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="142.52136536030338" y="403.26820903094875" width="87.93324905183313" height="41.97530864197531" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-25" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=1;startFill=0;curved=0;strokeWidth=2;exitX=0.858;exitY=0.516;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V4rfe2tWnRE6PDT2mExF-16">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="214.35867509481668" y="222.78239642421653" as="sourcePoint" />
+            <mxPoint x="286.7321073703141" y="279.04740064265184" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="294.28116308470294" y="295.82073397598515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-26" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=1;startFill=0;curved=0;strokeWidth=2;exitX=0.809;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V4rfe2tWnRE6PDT2mExF-20">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="210.96378945399434" y="305.0385117537629" as="sourcePoint" />
+            <mxPoint x="286.70796460176996" y="279.030610519195" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="337.19595448798987" y="369.6972771858617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-27" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=blockThin;endFill=1;startArrow=none;rounded=1;startFill=0;curved=0;strokeWidth=2;entryX=-0.06;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.985;exitY=0.504;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V4rfe2tWnRE6PDT2mExF-22">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="219.39064475347658" y="405.7960426179604" as="sourcePoint" />
+            <mxPoint x="286.7051380948706" y="279.04740064265184" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="316.15929203539827" y="312.6108574327753" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-20" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.marketing;" vertex="1" parent="1">
+          <mxGeometry x="158.49213653603036" y="249.75220023676644" width="55.71297602591691" height="55.71297602591691" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-16" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.health;" vertex="1" parent="1">
+          <mxGeometry x="159.74381795195956" y="171.5803754439371" width="50.71519435300377" height="42.60404049040704" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-29" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.employees;" vertex="1" parent="1">
+          <mxGeometry x="292.244814159292" y="413.7081007948588" width="74.8438288230516" height="77.16247179589492" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;COMMUNICATION WITH COLLEAGUES&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260.6882427307206" y="502.4629934043632" width="134.6346396965866" height="33.58024691358025" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-33" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.industries;" vertex="1" parent="1">
+          <mxGeometry x="289.5492288242731" y="572.3261221038389" width="80.21029930790095" height="90.12393180663028" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;LITERATURE REVIEWS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="277.517572692794" y="664.0034162015897" width="100.97597977243994" height="32.74074074074075" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560.0701896333754" y="283.6400456621004" width="218.08484450063207" height="230.10625570776256" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-41" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_generic" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-76">
+          <mxGeometry x="145.5100682680152" y="120.34680365296803" width="67.01629152238041" height="90.56255611132487" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-42" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.document" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-76">
+          <mxGeometry x="12.005360303413399" y="122.30684931506849" width="66.28408362190585" height="82.85510452738232" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-43" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-76">
+          <mxGeometry x="64.18496080910236" width="80.07271450557907" height="72.06467230986277" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PC&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-76">
+          <mxGeometry x="80.36268015170668" y="71.20826484018265" width="48.12136536030341" height="23.520547945205482" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DATABASE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-76">
+          <mxGeometry x="140.28863716814158" y="206.58570776255706" width="77.79620733249051" height="23.520547945205482" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DOCUMENTS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-76">
+          <mxGeometry y="206.58570776255706" width="90.62857142857142" height="23.520547945205482" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-77" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="919.9115044247789" y="60" width="230.08849557522126" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-54" value="" style="whiteSpace=wrap;html=1;imageAspect=1;absoluteArcSize=0;strokeColor=#042d60;strokeWidth=2;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry y="37.26027397260274" width="230.08849557522126" height="642.7397260273973" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-55" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;ACCESS LAYER&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="30" width="163.27" height="27.95" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-66" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Advisor.svg;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="76.38938053097345" y="66.34191780821921" width="82.41631396691035" height="82.41631396691035" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-67" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Log.svg;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="89.22831858407085" y="340.20493150684933" width="61.40015390534821" height="68.22239322816468" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-68" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Chart.svg;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="82.80424778761065" y="202.13698630136986" width="69.64178530203924" height="66.84878799538285" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-69" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Network_watcher.svg;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="78.23008849557522" y="456.4383561643836" width="73.25894574836477" height="73.25894574836477" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-70" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PROJECTS REPORTS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="78.23008849557522" y="152.1523287671233" width="82.83185840707965" height="27.945205479452056" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-71" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.education;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="80.88991150442487" y="572.4202739726029" width="77.9841477491343" height="52.25194305502117" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ANALYTYCS REPORTS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="88.35398230088497" y="273.4717808219178" width="62.58407079646018" height="27.945205479452056" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-73" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;PUBLICATIONS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="60.25557522123896" y="408.9315068493151" width="119.64601769911505" height="27.945205479452056" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-74" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;CONFERENCES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="52.89274336283189" y="530.027397260274" width="134.3716814159292" height="27.945205479452056" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-75" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;EDUCATION&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="V4rfe2tWnRE6PDT2mExF-77">
+          <mxGeometry x="67.1582300884956" y="626.9041095890411" width="105.84070796460178" height="27.945205479452056" as="geometry" />
+        </mxCell>
+        <mxCell id="V4rfe2tWnRE6PDT2mExF-78" value="" style="endArrow=block;html=1;rounded=0;shape=flexArrow;width=26;endSize=11.33;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="827.8761061946902" y="389.75342465753425" as="sourcePoint" />
+            <mxPoint x="901.5044247787611" y="389.75342465753425" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="868.7807276302851" y="389.75342465753425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
