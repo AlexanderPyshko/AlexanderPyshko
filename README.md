@@ -37,7 +37,14 @@ I'm an Ornithologist from Belarus. Since 2023 I'm studying Data Engineer as a ne
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### What I do as ornithologist:
+<img src="https://github.com/AlexanderPyshko/AlexanderPyshko/blob/main/job_schema/ornithologist.drawio.svg" title="Ornithologist's work plan" alt="Ornithologist's work plan" width="600"/>
+  
+  
  
 
 
