@@ -41,7 +41,7 @@ I'm an Ornithologist from Belarus. Since 2023 I'm studying Data Engineer as a ne
 
 ---
 
-### What I do as ornithologis:
+### What I do as ornithologist:
 <img src="https://github.com/AlexanderPyshko/AlexanderPyshko/blob/main/job_schema/ornithologist.drawio.svg" title="Ornithologist's work plan" alt="Ornithologist's work plan" width="600"/>
   
   
