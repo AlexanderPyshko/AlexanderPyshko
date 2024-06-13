@@ -22,7 +22,7 @@ I'm an Ornithologist from Belarus. Since 2023 I'm studying Data Engineer as a ne
   
 - :seedling: Studying gulls in urban area in Belarus.
 
-- :mega: Looking for a Trainee or Junior Data Engineer positions.
+- :mega: Looking for a Trainee or Junior Data Engineer/BI Analyst positions.
 
 - :zap: In my free time, I'm reading articles, practice code and try to make pet projects.
 
